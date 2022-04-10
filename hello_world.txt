@@ -1,0 +1,1 @@
+So vs code will open an additional 1 time on mac.
